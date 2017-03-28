@@ -1,0 +1,7 @@
+<root>
+  <facet id="maven"/>
+  <facet id="java"/>
+  <facet id="jst.web"/>
+  <facet id="wst.jsdt.web"/>
+  <facet id="jst.web.jstl"/>
+</root>
